@@ -1,1 +1,9 @@
 xfreerdp  
+cryptography
+pycryptodome
+tldextract
+whois
+scapy
+pyshark
+psutil
+tkinter
